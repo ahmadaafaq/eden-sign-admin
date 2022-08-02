@@ -1,2 +1,2 @@
 # eden-soul-server
-Eden Soul APIs - Admin Panel and Website
+Eden Sign APIs - Admin Panel and Website
